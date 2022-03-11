@@ -9,12 +9,16 @@ I started my career as a co-founder, part-time employee in various startups. I l
 Currently, Experienced Flutter App Developer, adept in all stages of App development. Knowledgeable in the user interface, testing, and API consumptions. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 Proficient in an assortment of technologies 
+- Software-Mobile Architect 
 - Dart 
 - Flutter 
 - PHP
+- C, C++, JAVA
 - HTML | CSS | JS
 - MySQL
 - Firebase
+- AWS, Google cloud
+- IOT, C-embedded, Microcontrollers
 
 
 <p align="left">
